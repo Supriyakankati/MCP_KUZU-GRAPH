@@ -1,0 +1,8 @@
+mcp[cli]
+starlette
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+httpx
+kuzu
+fastapi

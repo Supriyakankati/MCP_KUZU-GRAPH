@@ -1,0 +1,14 @@
+{
+  "name": "mcp-kuzu-graph",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.4",
+    "express": "^5.1.0",
+    "kuzu": "^0.10.0"
+  }
+}
